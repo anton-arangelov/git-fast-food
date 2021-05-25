@@ -1,0 +1,36 @@
+.ModuleItem{
+    border-top: 0.3px solid black;
+}
+
+.ModuleItem div {
+  display: flex;
+}
+
+.UpperPart{
+    align-items: center;
+    justify-content: space-between;
+    margin: auto 10%;
+}
+
+.UpperPart h1{
+    margin-left:30%;
+}
+
+.LowerPart{
+    align-items: center;
+    justify-content: space-between;
+    margin: auto 5%;
+    margin-right: 0%
+}
+
+.LowerPart div{
+    width: 40%;
+}
+
+.LowerPart p{
+    margin-left: 5px;
+}
+.LowerPart button{
+    width: 6em;
+    margin: auto auto
+}

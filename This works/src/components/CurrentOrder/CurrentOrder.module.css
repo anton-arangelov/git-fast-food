@@ -1,0 +1,11 @@
+.CurrentOrder {
+  margin: 2em auto;
+  width: 60%;
+  border: 1px solid black;
+}
+
+.TotalPrice{
+ text-align: center;
+  color: rgb(8, 13, 43);
+  font-size: 1.5em;
+}
